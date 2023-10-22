@@ -1,0 +1,21 @@
+<resources>
+    <style name="NumberButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/selector_button</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/numberTextColor</item>
+    </style>
+
+    <style name="OperatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/selector_button</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/operatorTextColor</item>
+    </style>
+</resources>
